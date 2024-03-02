@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome! My name is Enrique. My bachelor's degree is in mathematics with a minor in computer science from Sam Houston State University, and my master's degree is in industrial engineering from Lamar University. I did my research under the supervision of [Dr. James Curry](https://www.lamar.edu/engineering/industrial/faculty/james-curry/index.html), where I leveraged the use of GPT-4 through OpenAI's API to summarize likert scale data
+
+<!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-Welcome! My name is Enrique. 
-
-<!--- # Header 1
+# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
