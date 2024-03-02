@@ -6,11 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Welcome! My name is Enrique. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+<!--- # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -90,18 +88,18 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- level 1 item --->
 
-### Small image
+<!--- ### Small image --->
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<!--- ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) --->
 
-### Large image
+<!--- ### Large image --->
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<!--- ![Branching](https://guides.github.com/activities/hello-world/branching.png) --->
 
 
-### Definition lists can be used with HTML syntax.
+<!---### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
@@ -120,4 +118,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` --->
