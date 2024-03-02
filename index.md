@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+# About me
 
-Welcome! My name is Enrique. My bachelor's degree is in mathematics with a minor in computer science from Sam Houston State University, and my master's degree is in industrial engineering from Lamar University. I did my research under the supervision of [Dr. James Curry](https://www.lamar.edu/engineering/industrial/faculty/james-curry/index.html), where I leveraged the use of GPT-4 through OpenAI's API to summarize likert scale data
+Hello! I'm Enrique, holding a bachelor's degree in Mathematics with a minor in Computer Science from Sam Houston State University, and a master's degree in Industrial Engineering from Lamar University. During my master's studies, I conducted research under the supervision of [Dr. James Curry](https://www.lamar.edu/engineering/industrial/faculty/james-curry/index.html), focusing on developing software utilizing OpenAI's GPT-4 API to summarize Likert scale data in an effort to increase safety culture in the maritime industry. Working with Dr. Curry, I developed a deeper passion and curiousity for Operations Research and its versatility and applications. I now work at the University of Texas at Austin in the Space & Geophysics Laboratory 
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
