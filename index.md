@@ -1,6 +1,5 @@
 ---
 layout: default
-color: blue
 ---
 # About Me
 
